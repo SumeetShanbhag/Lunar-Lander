@@ -8,7 +8,7 @@ conda install Pillow==9.0.1
 conda install torch==1.10.1+cu102
 conda install tqdm==4.62.3
 ```
-Alternatively, use pip3 to install again 
+Alternatively, use pip3 to install 
 ```
 pip3 install gym==0.21.0
 pip3 install imageio==2.13.5
