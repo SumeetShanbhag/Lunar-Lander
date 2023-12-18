@@ -18,3 +18,6 @@ pip3 install Pillow==9.0.1
 pip3 install torch==1.10.1+cu102
 pip3 install tqdm==4.62.3
 ```
+```bash
+  $ python3 DQN.py
+  ```
