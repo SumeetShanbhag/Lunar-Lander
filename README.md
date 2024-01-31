@@ -23,4 +23,4 @@ To run the script, now run the following script
 ```bash
   $ python3 DQN.py
   ```
-![This is the gif](gym_animation.gif) / ! [](gym_animation.gif)
+![Alt Text](gifs/gym_animation.gif)
