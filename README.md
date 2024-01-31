@@ -24,3 +24,4 @@ To run the script, now run the following script
   $ python3 DQN.py
   ```
 ![Alt Text](gifs/gym_animation.gif)
+![Image](gifs/Figure_1.png)
